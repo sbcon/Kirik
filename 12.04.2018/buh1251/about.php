@@ -13,4 +13,6 @@ Best regards, O. Semchenko
 
 ';
 echo "This only for create new version";
+echo "This is third";
+
 ?>
