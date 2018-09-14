@@ -12,4 +12,5 @@ Best regards, O. Semchenko
 (sbcon@ukr.net)
 
 ';
+echo "This only for create new version";
 ?>
